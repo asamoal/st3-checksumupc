@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "ChecksumUPC: Add Checksum",
+        "command": "add_checksum"
+    },
+]
